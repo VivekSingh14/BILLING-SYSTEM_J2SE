@@ -1,10 +1,5 @@
 
 package OnlineBillingsystem;
-
-/**
- *
- * @author vivek
- */
 public class Billingsystem extends javax.swing.JFrame {
 
     public Billingsystem() {
